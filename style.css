@@ -53,12 +53,6 @@ header {
 .menu-items a:hover {
   border-bottom: 2px solid #f0f0e6;
 }
-.navbar .logo {
-  order: 1;
-  color: #f0f0e6;
-  font-size: 2rem;
-}
-
 
 
 .home-content .name {
